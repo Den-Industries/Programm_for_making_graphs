@@ -1,0 +1,19 @@
+Правой кнопкой создаются и удаляются вершины
+Левой кнопкой можно выбирать вершины и ребра
+Нажание левой кнопки по пустому пространству - очистка выбранных вершин и ребер
+Левая кнопка + Shift -> удаление вершины
+Выбор двух вершин + Пробел -> создание ребра
+Выбор ребра и прокрутка колеса мыши -> изменение веса ребра
+Выбор ребра и нажатие кнопки delete -> удаление ребра
+Выбор двух вершин + Enter -> подобрать кратчайший путь между двумя вершинами
+BackSpace - очистить найденный путь между двумя вершинами
+
+Right-click to create and delete vertexes
+With the left button, you can select vertices and edges
+Pressing the left button on an empty space - clearing the selected vertices and edges
+Left button + Shift -> delete vertex
+Choosing two vertices + Space -> creating an edge
+Selecting an edge and scrolling the mouse wheel -> changing the edge weight
+Selecting an edge and pressing the delete -> delete edge button
+Selecting two vertices + Enter -> find the shortest path between two vertices
+BackSpace - clear the found path between two vertices
